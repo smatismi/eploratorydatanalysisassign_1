@@ -1,2 +1,2 @@
 # eploratorydatanalysisassign_1
-NGithub rspoitory for exploratory analysis course assignment 1
+Github repoisitory for exploratory analysis course assignment 1
